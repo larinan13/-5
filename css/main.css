@@ -239,7 +239,7 @@ main {
 /* ===== СЕКЦИЯ КУРСОВ (общий каркас) ===== */
 .courses {
     padding: var(--space-2xl) 0;
-    background-color: transparent;
+ /*   background-color: transparent;*/
 }
 
 /* ===== СЕТКА (общий паттерн для карточек) ===== */
